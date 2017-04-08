@@ -44,6 +44,7 @@ To stop: press `ctrl-c` - it will wait for the last threads to finish and *only 
 
 - Ability to use raw brute-force of to load a list of subdomains
 - Single Core parallel probing
+- Checks for Wildcard DNS before probing
 
 ### Multi-core scenario
 
